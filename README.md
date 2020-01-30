@@ -1,1 +1,7 @@
-# dmytrosydorenko.github.io
+
+# Dmytro Sydorenko
+
+Мои домашние задания
+
+[Занятие 1](адрес "Описание")
+
